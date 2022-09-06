@@ -1,5 +1,2 @@
 # Lesson-
-
 # Hello
-
-Goodbye
